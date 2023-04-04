@@ -1,17 +1,17 @@
 <?php
 
-define ("PENYANYI", "Babang Ical");
-define ("JUDUL", "Senja Senja Bisa");
+define ("game", "DOTA 2");
+define ("streamer", "QoryGore");
 
-echo "Menampilkan Musik Yang di Putar ";
+echo "Menampilkan Streamer dan yang dimainkanya ";
 echo "\n";
 
-echo "Penyanyi :";
-echo PENYANYI;
+echo "game :";
+echo game;
 echo "\n";
 
-echo "Judul :";
-echo JUDUL;
+echo "streamer :";
+echo Streamer;
 echo "\n";
 
 ?>
