@@ -1,9 +1,9 @@
 <?php
 
-echo " Apakah agung ganteng ? ";
+echo " Suka Bermain Game ? ";
 var_dump (true);
 
-echo "Apakah ikan berjalan ?";
+echo "Sulthan Kulitnya Putih ?";
 var_dump (false);
 
 ?>
